@@ -11,6 +11,8 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  cursor: url(https://cur.cursors-4u.net/food/foo-6/foo522.cur), auto !important;
 }
 
 a {
